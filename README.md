@@ -6,7 +6,7 @@ this is caption
 warning : 
 * you should type a space between '#' and caption <br>
 * you should change the row like html syntax and the symbol '*'  is can classfy the massage 
-* pay attation about the is , the are different like the second
+* I don't know how to type the space in the edit
 
 
 
